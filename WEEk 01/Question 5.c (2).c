@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+float main(){
     int r,diameter,perimeter,area;
     printf("enter radius r");
     scanf("%d",&r);
