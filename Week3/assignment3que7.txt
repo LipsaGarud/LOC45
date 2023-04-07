@@ -1,0 +1,4 @@
+what is the size of a C structure? How the size of a C structure is calculated?
+Ans:
+The size of the C structure is the sum of the sizes of its member,with any necessary padding added to ensure that each member is alignedto an appropriate memory address.
+The size of a C structure can be calculated using size of operator. The size of operator returns the size of the object or type specified as its operand.  
